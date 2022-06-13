@@ -11,7 +11,7 @@
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" src="https://cdn.discordapp.com/avatars/342128453052530689/dca4f49fea1a92f7a872b568097bf948.webp?size=480">
+  <img align="right" alt="Rafa-pic" height="30" src="https://cdn.discordapp.com/avatars/342128453052530689/dca4f49fea1a92f7a872b568097bf948.webp?size=480">
 </div>
   
   ##

@@ -1,4 +1,4 @@
-## Fala devs! Aqui é o Caião, amante de Node/React/React Native!
+## Fala devs! Aqui é o Caião, frontend na maioria das vezes <3
 <div align="center">
   <a href="https://github.com/CaioMassola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomassola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,114 +1,65 @@
-<h1 align="center">Olá! Eu sou o Caio Massola 👋</h1>
+<h1 align="center">Hi, I'm Caio Massola 👋</h1>
 
 <p align="center">
   <strong>Software Engineer | Frontend Developer</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor focado em construir aplicações web modernas, escaláveis e com boas experiências para o usuário.
+  Building modern, scalable web applications with a focus on great user experiences.
 </p>
 
 <p align="center">
   <a href="mailto:cmassola@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/caio-massola-37863b169/" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-massola-37863b169/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou **Engenheiro de Software** com experiência no desenvolvimento de aplicações web, atuando principalmente no ecossistema **Frontend**.
+I'm a **Software Engineer** focused on **Frontend Development**, working primarily with **React, Next.js, and TypeScript**.
 
-Meu foco está na construção de interfaces modernas, escaláveis e de fácil manutenção utilizando **React, Next.js e TypeScript**, além de trabalhar com testes automatizados, integração com APIs e arquitetura de aplicações.
+I also have experience with backend development, automated testing, and cloud technologies using **Node.js, Java, Spring Boot, and AWS**.
 
-Também possuo experiência com tecnologias de backend e cloud, principalmente **Node.js, Java, Spring Boot e AWS**.
-
-- 💻 Foco principal em **Frontend Engineering**
-- ⚛️ Experiência com **React, Next.js e TypeScript**
-- 🧪 Testes automatizados com **Jest, React Testing Library, Playwright e Puppeteer**
-- ☁️ Experiência com **AWS**, incluindo **S3 e Cognito**
-- 🔧 Conhecimentos em **Node.js, NestJS, Java e Spring Boot**
-- 🗄️ Experiência com **PostgreSQL**
-- 🐳 Utilização de **Docker** em ambientes de desenvolvimento
-- 📚 Sempre buscando evoluir em **arquitetura, performance, qualidade de código e experiência do usuário**
+Currently focused on improving my skills in **frontend architecture, performance, and software quality**.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tech Stack
 
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,vite" alt="Frontend Skills" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring" alt="Backend Skills" />
-</p>
-
-### ☁️ Cloud & Banco de Dados
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,postgres,docker" alt="Cloud and Database Skills" />
-</p>
-
-### 🛠️ Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools" />
-</p>
-
----
-
-## 🧪 Qualidade & Testes
-
-Experiência com testes unitários, integração e E2E utilizando:
+**Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,vite" alt="Frontend technologies" />
 </p>
 
----
-
-## 💼 Experiência
-
-Atualmente trabalho como **Software Engineer**, atuando principalmente no desenvolvimento e evolução de aplicações web de grande porte.
-
-No dia a dia, trabalho com:
-
-- Desenvolvimento de interfaces utilizando **React e TypeScript**
-- Criação e manutenção de componentes reutilizáveis
-- Gerenciamento de estado e integração com APIs
-- Desenvolvimento e manutenção de testes automatizados
-- Análise e resolução de bugs
-- Code Review e melhoria contínua da qualidade do código
-- Desenvolvimento de funcionalidades envolvendo **Frontend e Backend**
-- Trabalho com aplicações e arquiteturas de grande escala
-
----
-
-## 🎯 Atualmente estudando
+**Backend & Database**
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend_Architecture-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,postgres" alt="Backend technologies" />
 </p>
 
-Aprofundando meus conhecimentos em **arquitetura frontend, performance, Next.js, desenvolvimento backend e cloud**.
+**Cloud & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,vscode" alt="Cloud and development tools" />
+</p>
+
+**Testing**
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+</p>
 
 ---
 
 <p align="center">
-  💡 <i>"Sempre aprendendo, construindo e melhorando."</i>
+  💡 <i>"Always learning, building, and improving."</i>
 </p>

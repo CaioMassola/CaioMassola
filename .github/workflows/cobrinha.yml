@@ -1,34 +1,12 @@
-name: Generate Snake
+name: Test Runner
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: CaioMassola
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+      - name: Test
+        run: echo "Runner funcionando!"
